@@ -1,4 +1,4 @@
-# INFONIC-2025
+# Osjur Salman
 Repositori ini digunakan untuk Ospek dan Makrab Jurusan Informatika Tahun 2025
 
 ## 📌 Tutorial Collaboration Github
