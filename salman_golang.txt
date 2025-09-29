@@ -1,0 +1,9 @@
+NAMA : SALMAN AL FARISI SIFA AMANTA
+NIM : 25106050047
+
+Figma adalah aplikasi desain UI/UX yang berbasis vektor dan cloud
+keunggulannya yaitu :
+    - dapat berkolaborasi real time
+    - memiliki fitur prototyping
+    - populer
+    - dapat dikerjakan secara remote
